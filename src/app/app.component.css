@@ -1,0 +1,31 @@
+.nav-link{
+  font-family: cursive;
+  font-size: medium;
+  font-style: italic;
+
+}
+.nav-brand{
+  font-family:cursive;
+  font-size: medium;
+  font-style:italic ;
+
+}
+
+
+.body{
+  background-image: url(https://source.unsplash.com/1600x900/?nature,water);
+  position: absolute,fixed;
+  height: 100vh;
+}
+h1{
+  text-align: center;
+  color: wheat;
+  font-size: 4rem;
+}
+p{
+  margin-top: 1.3rem;
+  text-align: center;
+  font-size: medium;
+}
+
+
